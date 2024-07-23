@@ -1,0 +1,14 @@
+// Kelas utama (main class)
+public class Main {
+    public static void main(String[] args) {
+        // Deklarasi dan inisialisasi variabel
+        String nama = "Hudafa";
+        int umur = 16;
+        String pekerjaan = "Siswa";
+
+        // Menampilkan informasi perkenalan dalam bahasa Indonesia
+        System.out.println("Halo, perkenalkan, nama saya " + nama + ".");
+        System.out.println("Saya berusia " + umur + " tahun.");
+        System.out.println("Saya sedang menempuh pendidikan sebagai seorang " + pekerjaan + ".");
+    }
+}
